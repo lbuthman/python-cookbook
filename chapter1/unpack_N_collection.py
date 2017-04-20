@@ -3,7 +3,7 @@
 # temperature tuple
 temps = (75, 68.9, 73, 55, 58,3, 60, 77)
 
-# find the average of the previous days compared to current day
+# find the avg. of the previous days compared to current day
 *past_temps, today_temp = temps
 
 # calculate average of previous days
