@@ -1,7 +1,7 @@
 # example tuple
 person = ("Luke", "Buthman", 1509, "S. Johnson", "Enid", "OK", 73703, "4052066052", "lbuthman@gmail.com")
 
-# iterate over creating variables
+# iterate over items, creating variables
 first, last, street_number, street, city, state, zip, phone, email = person
 
 # create welcome string with variables
